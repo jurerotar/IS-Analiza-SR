@@ -1,0 +1,54 @@
+Prepoznavo zvoka pri osebni izgovorjavi je program izpeljal brez napake, zato sem poskusil še z strojno izgovorjavo.
+Pri strojni izgovorjavi številk so se napake ponovile večkrat, zato sem izpeljal analizo poskusa.
+(Vse vrednosti so zaokrožene)
+
+Skupno stevilo poslusanih besed: 323
+Skupno stevilo napak: 97
+Delez napak pri strojni izgovorjavi je 30.0%
+
+'gyro' = 0
+'dude' = 2
+'pho', 'full', 'soul', 'find' = 4
+'sex', 'shakes', 'side', 'so' = 6
+'jared' = 7
+'hate', 'hole' = 8
+'hi' = 9
+
+Stevilo 0 se je ponovilo 40-krat, kar predstavlja 12.0%
+Stevilo 1 se je ponovilo 24-krat, kar predstavlja 7.0%
+Stevilo 2 se je ponovilo 37-krat, kar predstavlja 11.0%
+Stevilo 3 se je ponovilo 24-krat, kar predstavlja 7.0%
+Stevilo 4 se je ponovilo 26-krat, kar predstavlja 8.0%
+Stevilo 5 se je ponovilo 23-krat, kar predstavlja 7.0%
+Stevilo 6 se je ponovilo 33-krat, kar predstavlja 10.0%
+Stevilo 7 se je ponovilo 37-krat, kar predstavlja 11.0%
+Stevilo 8 se je ponovilo 41-krat, kar predstavlja 13.0%
+Stevilo 9 se je ponovilo 37-krat, kar predstavlja 11.0%
+
+Napaka dude se je ponovila 1-krat, kar predstavlja 1.0%
+Napaka sex se je ponovila 18-krat, kar predstavlja 18.0%
+Napaka hate se je ponovila 27-krat, kar predstavlja 26.0%
+Napaka shakes se je ponovila 7-krat, kar predstavlja 7.0%
+Napaka full. se je ponovila 1-krat, kar predstavlja 1.0%
+Napaka Jared se je ponovila 5-krat, kar predstavlja 5.0%
+Napaka full se je ponovila 3-krat, kar predstavlja 3.0%
+Napaka soul se je ponovila 1-krat, kar predstavlja 1.0%
+Napaka find se je ponovila 1-krat, kar predstavlja 1.0%
+Napaka pho se je ponovila 8-krat, kar predstavlja 8.0%
+Napaka hi se je ponovila 6-krat, kar predstavlja 6.0%
+Napaka hole se je ponovila 1-krat, kar predstavlja 1.0%
+Napaka side se je ponovila 1-krat, kar predstavlja 1.0%
+Napaka gyro se je ponovila 15-krat, kar predstavlja 15.0%
+Napaka so se je ponovila 2-krat, kar predstavlja 2.0%
+
+Stevilo 0 je napacno prebrano 15-krat, kar predstavlja 15% napak.
+Stevilo 1 je napacno prebrano 0-krat, kar predstavlja 0% napak.
+Stevilo 2 je napacno prebrano 1-krat, kar predstavlja 1% napak.
+Stevilo 3 je napacno prebrano 0-krat, kar predstavlja 0% napak.
+Stevilo 4 je napacno prebrano 13-krat, kar predstavlja 13% napak.
+Stevilo 5 je napacno prebrano 0-krat, kar predstavlja 0% napak.
+Stevilo 6 je napacno prebrano 28-krat, kar predstavlja 28% napak.
+Stevilo 7 je napacno prebrano 5-krat, kar predstavlja 5% napak.
+Stevilo 8 je napacno prebrano 28-krat, kar predstavlja 28% napak.
+Stevilo 9 je napacno prebrano 6-krat, kar predstavlja 6% napak.
+
